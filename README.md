@@ -2,7 +2,7 @@
 <p><a href="https://github.com/MisterSpyx/Python-Sender-/"></a>
 <a href="https://github.com/MisterSpyx/Python-Sender-/r"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/MisterSpyx/Python-Sender-/"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
-<p> Smpt Mass Random Sender Tool 🔓  </p>
+<p> ReverseIPLookUp Unlimted Tool 🔓  </p>
 
 <h2>Reverse V1</h2>
 
